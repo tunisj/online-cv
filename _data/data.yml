@@ -23,11 +23,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: &#55;&#55;&#103;&#114;&#97;&#105;&#110;&#115;&commat;&#103;&#109;&#97;&#105;&#108;&period;&#99;&#111;&#109;
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: 77grains@gmail.com
+    phone: 319 432 9088
+    website: jasontunis.com #do not add http://
+    linkedin: jason-tunis
+    github: tunisj
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -40,14 +40,8 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Woodworking
         link:
 
       - item: Snowboarding
