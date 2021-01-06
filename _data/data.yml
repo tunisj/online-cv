@@ -1,13 +1,24 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+# Site Settings
+title: Resume
+url: 'https://jasontunis.com'
+baseurl: '/online-cv' #change it according to your repository name
+description: Cyber Security Analyst
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: ceramic # blue turquoise green berry orange ceramic
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
+# Tracker
+analytics: 
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jason Tunis
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
