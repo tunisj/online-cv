@@ -1,17 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-# Site Settings
-title: Resume
-url: 'https://jasontunis.com'
-baseurl: '/online-cv' #change it according to your repository name
-description: Cyber Security Analyst
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ceramic # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
-
-# Tracker
-analytics: 
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -44,10 +33,10 @@ sidebar:
       - item: Woodworking
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -60,28 +49,14 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Certified Information Systems Security Professional (CISSP)
+      university: (ISC)2
+      time: 2011 - Present
+      
     - degree: BSc in Applied Mathematics
       university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      time: 2007 - Present
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -173,7 +148,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Incident Response
         level: 98%
 
       - name: Javascript & jQuery
@@ -192,4 +167,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
