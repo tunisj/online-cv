@@ -30,24 +30,19 @@ sidebar:
         level: Native
 
     interests:
-      - item: Woodworking
+      - item: Security Orchestration Automation and Response - SOAR
         link:
 
-      - item: 
+      - item: Cyber Threat Intelligence
         link:
 
-      - item: 
+      - item: Incident Response
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Extremely capable cyber security analyst with over 13 years experience.
 education:
     - degree: Certified Information Systems Security Professional (CISSP)
       university: (ISC)2
@@ -58,19 +53,13 @@ education:
       time: 2020 - Present
       
 experiences:
-    - role: Lead SOC Analyst
+    - role: Lead SOC Analyst / Senior SOC Analyst
       time: August 2019 - Present
       company: Aegon, Cedar Rapids, IA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
+        Act as primary point of contact for security incidents. Evaluated and recommended new and emerging security best practices, 
+        products and technology. 
           - Bullet point
           - Bullet point
           
