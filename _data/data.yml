@@ -130,9 +130,8 @@ publications:
     intro: |
       In 2020 I was approached to write a chapter on Security Automation for a book that was targeted towards individuals entering the security operations profession. 
     papers:
-    title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
-    authors: T. Wall, J. Roderick (2021)
-      - Tunis, J.R. (2021). SOC Automation. In T. Wall, J. Roderick <i>Jump-start Your SOC Analyst Career </i>(edition number if Chapter Author's Last Name, First Initial. Second Initial. (Year). Chapter or article title. In Editor Location of publication: Publisher.
+    -title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
+    -authors: T. Wall, J. Roderick (2021)
 skills:
     title: Skills &amp; Proficiency
 
