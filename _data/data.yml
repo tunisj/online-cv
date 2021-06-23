@@ -154,20 +154,20 @@ skills:
       - name: Incident Response
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Security Orchestration Automation and Response
         level: 98%
 
-      - name: Angular
+      - name: Cyber Threat Intelligence
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Digital Forensics
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Security Operations Management
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Incident Management
+        level: 75%
 
 footer: >
     
