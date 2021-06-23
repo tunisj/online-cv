@@ -128,25 +128,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      In 2020 I was approached to write a chapter on Security Automation for a book that was targeted towards individuals entering the security operations profession. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - Tunis, J.R. (2021). SOC Automation. In T. Wall, J. Roderick <i>Jump-start Your SOC Analyst Career </i>(edition number if Chapter Author's Last Name, First Initial. Second Initial. (Year). Chapter or article title. In Editor Location of publication: Publisher.
 skills:
     title: Skills &amp; Proficiency
 
