@@ -54,7 +54,7 @@ education:
       
 experiences:
     - role: Lead SOC Analyst / Senior SOC Analyst
-      time: August 2019 - Present
+      time: June 2018 - Present
       company: Aegon, Cedar Rapids, IA
       details: |
         Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
@@ -63,8 +63,8 @@ experiences:
           - Bullet point
           - Bullet point
           
-    - role: Senior SOC Analyst
-      time: June 2018 - August 2019
+    - role: Senior Infrastructure Security Engineer / Intermediate Infrastructure Security Engineer / Entry Infrastructure Security Engineer
+      time: May 2008 - June 2018
       company: Aegon, Cedar Rapids, IA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -74,43 +74,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-          
-    - role: Senior Infrastructure Security Engineer
-      time: March 2015 - June 2018
-      company: Aegon, Cedar Rapids, IA
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    
-    - role: Intermediate Infrastructure Security Engineer
-      time: March 2012 - March 2015
-      company: Aegon, Cedar Rapids, IA
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-          
-    - role: Entry Infrastructure Security Engineer
-      time: May 2008 - March 2012
-      company: Aegon, Cedar Rapids, IA
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-          
+
     - role: Electronics Repair Technician
       time: April 2007 - May 2008
       company: Intermec/Norand, Cedar Rapids, IA
