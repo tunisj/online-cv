@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Knowledgeable cyber security analyst with over 13 years experience looking to expand my career. 
+      I am a knowledgeable cyber security analyst with over 13 years experience looking to expand my career. 
       As the head of the global security operations center I would implement a SOC maturity program, establish clear service level agreements between the SOC and business unit security offices, and I would drive to deliver improvements across all aspects of SOC services.
 education:
     - degree: Certified Information Systems Security Professional (CISSP)
@@ -60,11 +60,12 @@ experiences:
       details: |
         Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
         Act as primary point of contact for security incidents. Evaluated and recommended new and emerging security best practices, 
-        products and technology. 
-          - Bullet point
-          - Bullet point
+        products and technology. Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of playbooks to reduce analyst fatigue and to improve the incident analysis workflow.
+        Acted as the point of contact for audit inquiries. Primary escalation point for all incident response activities. 
+          - Built Aegon's Cyber Threat Intelligence program from the ground up.
+          - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
           
-    - role: Senior Infrastructure Security Engineer / Intermediate Infrastructure Security Engineer / Entry Infrastructure Security Engineer
+    - role: Entry / Intermediate / Senior Infrastructure Security Engineer
       time: May 2008 - June 2018
       company: Aegon, Cedar Rapids, IA
       details: |
@@ -80,25 +81,16 @@ experiences:
       time: April 2007 - May 2008
       company: Intermec/Norand, Cedar Rapids, IA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In the Cedar Rapids repair facility, I performed component level troubleshooting on a number of rugged scanner products produced by Intermec. 
+        Conducted component and chip replacement under microscope. Maintained a low return rate on repaired devices. 
           
     - role: Sonar Technician
       time: December 2000 - December 2006
       company: US Navy, San Diego, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         Performed advanced acoustic analysis on live acoustic intelligence collections. Executed duties as Sonar Supervisor during workup cycles and helped to achieve the ship's 'Battle A' status. 
+         Conducted maintenance and repair on electronic equipment as required. Managed a team of 5 sonar and torpedo technicians. Performed numerous weapons onloads which included millions of dollars of missiles and torpedoes without issue.
+         Maintained the divisions classified Secret publications and documents and was responsible for testing the destruction plan. Received numerous awards including 3 Navy Marine Corp Achievement medals and a Navy Commendation medal. 
 projects:
     title: Projects
     intro: >
