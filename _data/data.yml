@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@s1ns3c'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,7 +42,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Extremely capable cyber security analyst with over 13 years experience.
+      Knowledgeable cyber security analyst with over 13 years experience looking to expand my career. 
+      As the head of the global security operations center I would implement a SOC maturity program, establish clear service level agreements between the SOC and business unit security offices, and I would drive to deliver improvements across all aspects of SOC services.
 education:
     - degree: Certified Information Systems Security Professional (CISSP)
       university: (ISC)2
