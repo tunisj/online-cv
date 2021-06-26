@@ -59,9 +59,8 @@ experiences:
       company: Aegon, Cedar Rapids, IA
       details: |
         Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
-        Act as primary point of contact for security incidents. Evaluated and recommended new and emerging security best practices, 
-        products and technology. Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of playbooks to reduce analyst fatigue and to improve the incident analysis workflow.
-        Acted as the point of contact for audit inquiries. Primary escalation point for all incident response activities. 
+        I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of custom coded python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow.
+        Created a number of alerting rules to help protect Aegon from malicious threat actors. Acted as the point of contact for audit inquiries. Primary escalation point for all incident response activities.
           - Built Aegon's Cyber Threat Intelligence program from the ground up.
           - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
           
@@ -69,13 +68,11 @@ experiences:
       time: May 2008 - June 2018
       company: Aegon, Cedar Rapids, IA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Designed and maintained antivirus and EDR infrastructure for the enterprise. Tuned policy and settings to stay in-line with best practice recommendations. 
+        Performed a number of 'proof of concept' or 'proof of value' product evaluations based on defined requirements to find the best solution for the enterprise. 
+        Participated in an on-call rotation to monitor alerts. Participated in alert tuning activities. 
+          - Conducted an intensive bake-off and implemented Aegon's first Endpoint Detection and Response (EDR) platform. 
+          - Continued to manage and maintain technology solutions after transitioning to a new role in the SOC. 
 
     - role: Electronics Repair Technician
       time: April 2007 - May 2008
@@ -94,29 +91,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Open Source projects created
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: URLDecode
+        link: "https://github.com/tunisj/urldecode"
+        tagline: "A python script to quickly decode Proofpoint encoded URLs"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ipinfo
+        link: "https://github.com/tunisj/ipinfo"
+        tagline: "A python application to interact with the ipinfo.io api."
 
 publications:
     title: Publications
@@ -147,6 +130,9 @@ skills:
 
       - name: Incident Management
         level: 75%
+        
+      - name: Python
+        level: 60%
 
 footer: >
     
