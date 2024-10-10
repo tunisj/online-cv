@@ -75,17 +75,10 @@ education:
         time: 
         details:
         
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: 
+        university: 
+        time: 
+        details: 
 
 experiences:
     title: Experiences
@@ -101,11 +94,10 @@ experiences:
         time: June 2018 - March 2022
         company: Aegon, Cedar Rapids, IA
         details: |
-          Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
-          I evaluated and recommended new and emerging security best practices, products and technology. 
-          Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of custom coded 
-          python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. Created a number of 
-          alerting rules to help protect Aegon from malicious threat actors. Acted as the point of contact for audit inquiries. 
+          As a lead SOC analyst I managed and mentored junior analysts and provided leadership in security incident handling and remediation. 
+          I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, 
+          and Response (SOAR) platform and wrote a number of custom coded python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. 
+          Created multiple new alerting rules to help protect the organization from malicious threat actors. Acted as the point of contact for audit inquiries. 
           Primary escalation point for all incident response activities.
             - Built Aegon's Cyber Threat Intelligence program from the ground up.
             - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
@@ -114,7 +106,7 @@ experiences:
         company: Aegon, Cedar Rapids, IA
         details: |
           Designed and maintained antivirus and EDR infrastructure for the enterprise. Tuned policy and settings to stay in-line with best practice recommendations. 
-          Performed a number of 'proof of concept' or 'proof of value' product evaluations based on defined requirements to find the best solution for the enterprise. 
+          Performed multiple 'proof of value' product evaluations based on defined requirements to find the best solution for the enterprise. 
           Participated in an on-call rotation to monitor alerts. Participated in alert tuning activities. 
             - Conducted an intensive bake-off and implemented Aegon's first Endpoint Detection and Response (EDR) platform. 
             - Continued to manage and maintain technology solutions after transitioning to a new role in the SOC. 
@@ -126,11 +118,12 @@ certifications:
           start: 2011
           end: 
           organization: ISC(2)
-          credentialid: 111-222
+          credentialid: 570578
           credentialurl: https://www.isc2.org/certifications/cissp
           credentialname: CISSP
           details: |
-            Details about cert. 
+            The CISSP certification is a management-level qualification that validates a professional's technical and managerial knowledge and experience. 
+            It's a benchmark qualification for senior- and director-level managers in information security.
         - name: GIAC Security Leadership (GSLC)
           start: 2020
           end:
@@ -139,33 +132,33 @@ certifications:
           credentialurl: https://www.giac.org/certifications/security-leadership-gslc/
           credentialname: GSLC
           details: |
-            Older certification. 
+            The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
+            detecting, and responding to security issues. GSLC certification holders have demonstrated knowledge of data, network, host, application, and user controls 
+            along with key management topics that address the overall security lifecycle.
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: 
+        tagline: 
 oss:
     title: OSS Contributions
     intro: >
