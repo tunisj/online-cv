@@ -42,13 +42,13 @@ sidebar:
       interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Incident Response
           link:
 
-        - item: Snowboarding
+        - item: Security Orchestration Automation and Response (SOAR)
           link:
 
-        - item: Cooking
+        - item: Cyber Threat Intelligence
           link:
 
 career-profile:
@@ -60,140 +60,56 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Manager Security Automation
+        time: March 2022 - Present
+        company: Navy Federal Credit Union, Vienna, VA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Describe your role here 
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior / Lead SOC Analyst
+        time: June 2018 - March 2022
+        company: Aegon, Cedar Rapids, IA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of custom coded python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. Created a number of alerting rules to help protect Aegon from malicious threat actors. Acted as the point of contact for audit inquiries. Primary escalation point for all incident response activities.
+            - Built Aegon's Cyber Threat Intelligence program from the ground up.
+            - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
+      - role: Entry / Intermediate / Senior Infrastructure Security Engineer
+        time: May 2008 - June 2018
+        company: Aegon, Cedar Rapids, IA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Designed and maintained antivirus and EDR infrastructure for the enterprise. Tuned policy and settings to stay in-line with best practice recommendations. 
+          Performed a number of 'proof of concept' or 'proof of value' product evaluations based on defined requirements to find the best solution for the enterprise. 
+          Participated in an on-call rotation to monitor alerts. Participated in alert tuning activities. 
+            - Conducted an intensive bake-off and implemented Aegon's first Endpoint Detection and Response (EDR) platform. 
+            - Continued to manage and maintain technology solutions after transitioning to a new role in the SOC. 
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Certified Information Systems Security Professional (CISSP)
+          start: 2011
+          end: 
+          organization: ISC(2)
+          credentialid: 111-222
+          credentialurl: https://www.isc2.org/certifications/cissp
+          credentialname: CISSP
+          details: |
+            Details about cert. 
+        - name: GIAC Security Leadership (GSLC)
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
           end:
-          organization: Microsoft
+          organization: GIAC
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: https://www.giac.org/certifications/security-leadership-gslc/
+          credentialname: GSLC
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+            Older certification. 
 
 oss:
     title: OSS Contributions
@@ -202,61 +118,53 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: URLDecode
+        link: "https://github.com/tunisj/urldecode"
+        tagline: "A python script to quickly decode Proofpoint encoded URLs"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ipinfo
+        link: "https://github.com/tunisj/ipinfo"
+        tagline: "A python application to interact with the ipinfo.io api."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
+      link: "https://www.apress.com/us/book/9781484269039"
+      authors: T. Wall, J. Roderick (2021)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Taming the Hydra"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Fridley A.R, Tunis, J.R.
+        conference: "FS-ISAC Fall Conference, Atlanta, GA, USA, (2024)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Incident Response
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Security Orchestration Automation and Response
         level: 98%
 
-      - name: Angular
+      - name: Cyber Threat Intelligence
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Digital Forensics
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Security Operations Management
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Incident Management
+        level: 75%
+        
+      - name: Python
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
