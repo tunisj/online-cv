@@ -38,7 +38,13 @@ sidebar:
       info:
         - idiom: English
           level: Native
+          
+        - idiom: 
+          level: 
 
+        - idiom: 
+          level: 
+          
       interests:
       title: Interests
       info:
@@ -61,6 +67,31 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
@@ -76,7 +107,12 @@ experiences:
         time: June 2018 - March 2022
         company: Aegon, Cedar Rapids, IA
         details: |
-          Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of custom coded python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. Created a number of alerting rules to help protect Aegon from malicious threat actors. Acted as the point of contact for audit inquiries. Primary escalation point for all incident response activities.
+          Manage and mentor SOC analysts by providing leadership in security incident handling and remediation. 
+          I evaluated and recommended new and emerging security best practices, products and technology. 
+          Implemented a Security Orchestration, Automation, and Response (SOAR) platform and wrote a number of custom coded 
+          python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. Created a number of 
+          alerting rules to help protect Aegon from malicious threat actors. Acted as the point of contact for audit inquiries. 
+          Primary escalation point for all incident response activities.
             - Built Aegon's Cyber Threat Intelligence program from the ground up.
             - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
       - role: Entry / Intermediate / Senior Infrastructure Security Engineer
@@ -110,7 +146,32 @@ certifications:
           credentialname: GSLC
           details: |
             Older certification. 
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 oss:
     title: OSS Contributions
     intro: >
@@ -135,10 +196,10 @@ publications:
       link: "https://www.apress.com/us/book/9781484269039"
       authors: T. Wall, J. Roderick (2021)
 
-      - title: "Taming the Hydra"
-        link: "#"
-        authors: Fridley A.R, Tunis, J.R.
-        conference: "FS-ISAC Fall Conference, Atlanta, GA, USA, (2024)"
+    - title: "Taming the Hydra"
+      link: "#"
+      authors: Fridley A.R, Tunis, J.R.
+      conference: "FS-ISAC Fall Conference, Atlanta, GA, USA, (2024)"
 
 
 skills:
