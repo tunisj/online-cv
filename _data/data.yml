@@ -86,7 +86,7 @@ experiences:
             - Bullet point
       - role: Senior / Lead SOC Analyst
         time: June 2018 - March 2022
-        company: Aegon, Cedar Rapids, IA
+        company: Aegon (Transamerica), Cedar Rapids, IA
         details: |
           As a lead SOC analyst I managed and mentored junior analysts and provided leadership in security incident handling and remediation. 
           I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, 
@@ -97,7 +97,7 @@ experiences:
             - Implemented a solution to analyze phishing emails and automate the responses back to the initial submitter. 
       - role: Entry / Intermediate / Senior Infrastructure Security Engineer
         time: May 2008 - June 2018
-        company: Aegon, Cedar Rapids, IA
+        company: Aegon (Transamerica), Cedar Rapids, IA
         details: |
           Designed and maintained antivirus and EDR infrastructure for the enterprise. Tuned policy and settings to stay in-line with best practice recommendations. 
           Performed multiple 'proof of value' product evaluations based on defined requirements to find the best solution for the enterprise. 
@@ -127,14 +127,11 @@ certifications:
           credentialname: GSLC
           details: |
             The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
-            detecting, and responding to security issues. GSLC certification holders have demonstrated knowledge of data, network, host, application, and user controls 
-            along with key management topics that address the overall security lifecycle.
+            detecting, and responding to security issues.
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My open source software contributions written in python.
     contributions:
       - title: URLDecode
         link: "https://github.com/tunisj/urldecode"
@@ -149,9 +146,10 @@ publications:
     intro: >
 
     papers:
-    - title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
+    - title: Jump-start Your SOC Analyst Career.
       link: "https://www.apress.com/us/book/9781484269039"
       authors: T. Wall, J. Roderick (2021)
+      conference: "SOC Automation (Chapter 7)"
 
     - title: "Taming the Hydra"
       link: "#"
@@ -163,6 +161,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Security Management
+        level: 95%
+        
       - name: Incident Response
         level: 98%
 
@@ -174,9 +175,6 @@ skills:
 
       - name: Digital Forensics
         level: 95%
-
-      - name: Security Operations Management
-        level: 85%
 
       - name: Incident Management
         level: 75%
