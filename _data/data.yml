@@ -66,7 +66,7 @@ education:
     info:
       - degree: BS: Workforce Education & Development
         university: Southern Illinois University
-        time: TBD
+        time: 
         details:
         
       - degree: 
@@ -129,30 +129,6 @@ certifications:
             The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
             detecting, and responding to security issues. GSLC certification holders have demonstrated knowledge of data, network, host, application, and user controls 
             along with key management topics that address the overall security lifecycle.
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
 oss:
     title: OSS Contributions
     intro: >
@@ -170,7 +146,7 @@ oss:
 
 publications:
     title: Publications
-    intro: |
+    intro: >
 
     papers:
     - title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
