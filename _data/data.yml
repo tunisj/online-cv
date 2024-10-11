@@ -38,13 +38,7 @@ sidebar:
       info:
         - idiom: English
           level: Native
-          
-        - idiom: 
-          level: 
-
-        - idiom: 
-          level: 
-          
+                  
     interests:
       title: Interests
       info:
@@ -70,9 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 
-        university: 
-        time: 
+      - degree: BS: Workforce Education & Development
+        university: Southern Illinois University
+        time: TBD
         details:
         
       - degree: 
@@ -176,7 +170,7 @@ oss:
 
 publications:
     title: Publications
-    intro: |
+    intro: 
 
     papers:
     - title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
