@@ -170,7 +170,7 @@ oss:
 
 publications:
     title: Publications
-    intro: 
+    intro: |
 
     papers:
     - title: SOC Automation (Chapter 7) in Jump-start Your SOC Analyst Career.
