@@ -67,7 +67,7 @@ education:
       - degree: BS Workforce Education & Development
         university: Southern Illinois University
         time: 
-        details:
+        details: In-Progress
         
       - degree: 
         university: 
@@ -81,7 +81,9 @@ experiences:
         time: March 2022 - Present
         company: Navy Federal Credit Union, Vienna, VA
         details: |
-          Describe your role here 
+          Lead and manage an advanced security automation team comprised of cyber security engineers, business process analysts, business process developers and technical product managers. 
+          Responsible for Security Orchestration, Automation, and Response (SOAR) capabilities for the Cyber Security Operations Center (CSOC).  Responsible for business process automation to 
+          include case management and Robotic Process Automation (RPA) for the security department. 
             - Bullet point
             - Bullet point
       - role: Senior / Lead SOC Analyst
@@ -90,7 +92,7 @@ experiences:
         details: |
           As a lead SOC analyst I managed and mentored junior analysts and provided leadership in security incident handling and remediation. 
           I evaluated and recommended new and emerging security best practices, products and technology. Implemented a Security Orchestration, Automation, 
-          and Response (SOAR) platform and wrote a number of custom coded python based playbooks to reduce analyst fatigue and to improve the incident analysis workflow. 
+          and Response (SOAR) platform and wrote custom coded, python based playbooks to reduce analyst fatigue and to improve the incident response workflow. 
           Created multiple new alerting rules to help protect the organization from malicious threat actors. Acted as the point of contact for audit inquiries. 
           Primary escalation point for all incident response activities.
             - Built Aegon's Cyber Threat Intelligence program from the ground up.
@@ -108,6 +110,15 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Leadership Essentials
+          start: 2024
+          end:
+          organization: Cornell
+          credentialid: 
+          credentialurl: https://ecornell.cornell.edu/certificates/leadership-and-strategic-management/leadership-essentials-certificate/
+          credentialname: Leadership Essentials
+          details: |
+          
         - name: Certified Information Systems Security Professional (CISSP)
           start: 2011
           end: 
@@ -122,7 +133,7 @@ certifications:
           start: 2020
           end:
           organization: GIAC
-          credentialid: 111-222
+          credentialid: 
           credentialurl: https://www.giac.org/certifications/security-leadership-gslc/
           credentialname: GSLC
           details: |
