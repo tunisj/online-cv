@@ -54,12 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Seasoned cyber security professional with over 16 years of experience with 3 years providing leadership to technical teams.  
 
 education:
     title: Education
@@ -118,17 +113,6 @@ certifications:
           credentialurl: ecornell.cornell.edu/certificates/leadership-and-strategic-management/leadership-essentials-certificate/
           credentialname: Leadership Essentials
           details: |
-          
-        - name: Certified Information Systems Security Professional (CISSP)
-          start: 2011
-          end: 
-          organization: ISC(2)
-          credentialid: 570578
-          credentialurl: www.isc2.org/certifications/cissp
-          credentialname: CISSP
-          details: |
-            The CISSP certification is a management-level qualification that validates a professional's technical and managerial knowledge and experience. 
-            It's a benchmark qualification for senior- and director-level managers in information security.
         - name: GIAC Security Leadership (GSLC)
           start: 2020
           end:
@@ -139,6 +123,17 @@ certifications:
           details: |
             The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
             detecting, and responding to security issues.
+        - name: Certified Information Systems Security Professional (CISSP)
+          start: 2011
+          end: 
+          organization: ISC(2)
+          credentialid: 570578
+          credentialurl: www.isc2.org/certifications/cissp
+          credentialname: CISSP
+          details: |
+            The CISSP certification is a management-level qualification that validates a professional's technical and managerial knowledge and experience. 
+            It's a benchmark qualification for senior- and director-level managers in information security.
+
 oss:
     title: OSS Contributions
     intro: >
