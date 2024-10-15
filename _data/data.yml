@@ -115,7 +115,7 @@ certifications:
           end:
           organization: Cornell
           credentialid: 
-          credentialurl: https://ecornell.cornell.edu/certificates/leadership-and-strategic-management/leadership-essentials-certificate/
+          credentialurl: ecornell.cornell.edu/certificates/leadership-and-strategic-management/leadership-essentials-certificate/
           credentialname: Leadership Essentials
           details: |
           
@@ -124,7 +124,7 @@ certifications:
           end: 
           organization: ISC(2)
           credentialid: 570578
-          credentialurl: https://www.isc2.org/certifications/cissp
+          credentialurl: www.isc2.org/certifications/cissp
           credentialname: CISSP
           details: |
             The CISSP certification is a management-level qualification that validates a professional's technical and managerial knowledge and experience. 
@@ -134,7 +134,7 @@ certifications:
           end:
           organization: GIAC
           credentialid: 
-          credentialurl: https://www.giac.org/certifications/security-leadership-gslc/
+          credentialurl: www.giac.org/certifications/security-leadership-gslc/
           credentialname: GSLC
           details: |
             The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
