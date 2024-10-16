@@ -121,8 +121,7 @@ certifications:
           credentialurl: www.giac.org/certifications/security-leadership-gslc/
           credentialname: GSLC
           details: |
-            The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, 
-            detecting, and responding to security issues.
+            
         - name: Certified Information Systems Security Professional (CISSP)
           start: 2011
           end: 
@@ -131,8 +130,7 @@ certifications:
           credentialurl: www.isc2.org/certifications/cissp
           credentialname: CISSP
           details: |
-            The CISSP certification is a management-level qualification that validates a professional's technical and managerial knowledge and experience. 
-            It's a benchmark qualification for senior- and director-level managers in information security.
+            
 
 oss:
     title: OSS Contributions
@@ -152,15 +150,17 @@ publications:
     intro: >
 
     papers:
-    - title: Jump-start Your SOC Analyst Career.
+    - title: "Streamlining Counter-fraud Tactical Intelligence Delivery"
+      link: "#"
+      authors: Fridley A.R, Tunis, J.R.
+      conference: "FS-ISAC Fall Summit, Atlanta, GA, USA, (2024)"
+      
+    - title: "Jump-start Your SOC Analyst Career"
       link: "https://www.apress.com/us/book/9781484269039"
       authors: T. Wall, J. Roderick (2021)
       conference: "SOC Automation (Chapter 7)"
 
-    - title: "Taming the Hydra"
-      link: "#"
-      authors: Fridley A.R, Tunis, J.R.
-      conference: "FS-ISAC Fall Conference, Atlanta, GA, USA, (2024)"
+
 
 
 skills:
